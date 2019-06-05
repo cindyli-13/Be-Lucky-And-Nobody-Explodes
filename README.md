@@ -4,3 +4,5 @@ Be Lucky and Nobody Explodes is a physical implementation of Keep Talking and No
 The physical implementation of the game is contained within a briefcase and will consist of 6 puzzle modules—some of which will be based on modules from Keep Talking and Nobody Explodes and some of which will be newly designed to provide an original experience. Due to its easily accessible nature, this game can be enjoyed by anyone with a mind for puzzles and is intended for groups of friends looking for a fun challenge. 
 
 This project was created for the TEJ4M course.
+
+![appearance](https://raw.githubusercontent.com/cindyli-13/Be-Lucky-And-Nobody-Explodes/master/Pictures/IMG_20190602_170410.jpg)
