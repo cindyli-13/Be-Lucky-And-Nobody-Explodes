@@ -35,7 +35,7 @@ int inWire[16][6] = {//female
   {whi,blu,bla,gre,red,yel},//4
   {bla,gre,blu,red,yel,whi},//5
   {whi,bla,yel,blu,red,gre},//6
-  {red,whi,gre,bla,yel,whi},//7
+  {red,whi,gre,bla,yel,blu},//7
   {red,gre,blu,yel,whi,bla},//8
   {gre,red,yel,blu,whi,bla},//9
   {blu,yel,red,gre,whi,bla},//10
@@ -187,4 +187,3 @@ int detectCase(){
 
   return fir+sec+thi+fort;
 }
-
